@@ -1,0 +1,9 @@
+
+#Kicad lock files
+*.lck
+
+#Auto-saved Files
+*#auto_saved_files#*
+
+#Kicad Backups
+*-backups*
